@@ -5,7 +5,7 @@ Aplicativo mobile completo para criação, gerenciamento e sorteio de fichas de 
 ---
 
 ## Aluno
-- **Nome:** Gabriel
+- **Nome:** Gabriel Braz da Costa
 - **Disciplina:** Framework para Desenvolvimento para Dispositivos Móveis
 - **Projeto Base:** RPG-Builder (D&D 5e Character Manager)
 
